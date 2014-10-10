@@ -1,0 +1,34 @@
+http://arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf
+
+Target price 40 USD.
+
+Has to be Arduino pin compatible
+Has to be able to program with arduino.
+	
+Has to be pin compatible with Raspeberry pi.
+
+Motors
+	Control 2(two) DC motors. Stall current 1A. Free running current 200mA.
+		DRV8837 x 2		-	Texas Instruments (1,46 USD).
+
+Sensors
+	Encoder
+
+	Floor sensor (detect black or white)
+		TCRT1000	-	Vishay (1,26 USD).
+
+	Distance sensor
+		HC-SR04		-	
+	
+	Accelerometer
+		MMA7660		-	Frescale (1,21 USD).	
+
+	Magnetometer	
+		MAG3110FCR1 -	Freescale (1,18 USD).
+
+	Gyroscope
+		ITG3400		-	InvenSense (7,93 USD).
+	
+Leds
+
+Has to be able to power by a 3,7v cellphone battery.
