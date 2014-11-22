@@ -1,0 +1,67 @@
+EESchema-DOCLIB  Version 2.0  Date: Fri 26 Jul 2013 05:16:57 PM NZST
+#
+$CMP ATMEGA328-QFP32
+D ATMEGA168A, TQFP32, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/dyn/resources/prod_documents/doc8271.pdf
+$ENDCMP
+#
+$CMP DIODE
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP FDN340P
+D P-Channel MOSFET
+K P-Channel MOSFET
+$ENDCMP
+#
+$CMP FERRITE
+D Varistor
+$ENDCMP
+#
+$CMP JP6/THRU
+D ymbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP JP8/THRU
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP LM358N
+D Dual Op amp (low power)
+K ampliop
+F ns/lm158.pdf
+$ENDCMP
+#
+$CMP NCP1117ST50T3G(G)
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP POWER_JACK
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP POWERJACK/THRU-3
+D DC Barrel Jack
+$ENDCMP
+#
+$CMP RESONATOR
+D Ceramic Resonator CSTCE16M0V53
+$ENDCMP
+#
+$CMP UA78M05CDCYG3
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP VARISTOR
+D Varistor
+$ENDCMP
+#
+#End Doc Library
