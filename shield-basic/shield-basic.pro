@@ -1,6 +1,6 @@
-update=lun 26 ene 2015 13:15:09 ART
+update=sáb 14 feb 2015 12:16:09 ART
 version=1
-last_client=eeschema
+last_client=kicad
 [pcbnew]
 version=1
 LastNetListRead=
@@ -61,3 +61,5 @@ LibName29=contrib
 LibName30=valves
 LibName31=l9110
 LibName32=tcrt1000
+LibName33=drv8833
+LibName34=DRV8837
