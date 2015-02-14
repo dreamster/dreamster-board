@@ -29,10 +29,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:l9110
 LIBS:tcrt1000
 LIBS:drv8833
-LIBS:DRV8837
 LIBS:shield-basic-cache
 EELAYER 25 0
 EELAYER END

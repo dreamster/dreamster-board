@@ -1,4 +1,4 @@
-update=sáb 14 feb 2015 12:16:09 ART
+update=sáb 14 feb 2015 12:52:47 ART
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,7 +59,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=l9110
-LibName32=tcrt1000
-LibName33=drv8833
-LibName34=DRV8837
+LibName31=tcrt1000
+LibName32=drv8833
