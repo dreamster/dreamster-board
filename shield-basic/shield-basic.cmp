@@ -1,0 +1,360 @@
+Cmp-Mod V01 Created by Cvpcb 0.201502050101+5404~21~ubuntu14.04.1-product   date = mié 18 feb 2015 01:01:48 ART
+
+BeginCmp
+TimeStamp = /54DF624B/54DEC11C;
+Reference = C1;
+ValeurCmp = 18n;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEAC30;
+Reference = C2;
+ValeurCmp = 100 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEB206;
+Reference = C3;
+ValeurCmp = 18n;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEAB1B;
+Reference = C4;
+ValeurCmp = 100 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEBAAD;
+Reference = C5;
+ValeurCmp = 3.3 uF;
+IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA6E7;
+Reference = C6;
+ValeurCmp = 100 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA682;
+Reference = C7;
+ValeurCmp = 47n;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA444;
+Reference = C8;
+ValeurCmp = 10 uF;
+IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54DFA72A;
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54DFAA0B;
+Reference = C10;
+ValeurCmp = 2.2u;
+IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54DF8DCC;
+Reference = C11;
+ValeurCmp = 10n;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54DFB219;
+Reference = C12;
+ValeurCmp = 220u;
+IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54DFB3B7;
+Reference = C13;
+ValeurCmp = 100n;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E15115;
+Reference = CON1;
+ValeurCmp = SD_Card;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C688C5;
+Reference = D1;
+ValeurCmp = LED_RCBG;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54DF8334;
+Reference = IC1;
+ValeurCmp = DRV8833;
+IdModule  = SMD_Packages:TSSOP-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA975;
+Reference = L1;
+ValeurCmp = 1 uH;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA90D;
+Reference = L2;
+ValeurCmp = 1 uH;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA89D;
+Reference = L3;
+ValeurCmp = 1 uH;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65AA0;
+Reference = P1;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65B5A;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65B9E;
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65C05;
+Reference = P4;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65C43;
+Reference = P5;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65C26;
+Reference = P6;
+ValeurCmp = CONN_01X08;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65CD6;
+Reference = P7;
+ValeurCmp = CONN_01X06;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65D27;
+Reference = P8;
+ValeurCmp = CONN_01X10;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C65CB5;
+Reference = P9;
+ValeurCmp = CONN_01X08;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA4B5;
+Reference = P10;
+ValeurCmp = speaker;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54E1920E;
+Reference = P11;
+ValeurCmp = CONN_01X02;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54E1920F;
+Reference = P12;
+ValeurCmp = CONN_01X02;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54E19210;
+Reference = P13;
+ValeurCmp = CONN_01X06;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DFD7C1;
+Reference = Q1;
+ValeurCmp = PNP;
+IdModule  = Transistors_SMD:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C68B59;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C68BA5;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C68BF0;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEC0A4;
+Reference = R4;
+ValeurCmp = 2.2k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEB1D8;
+Reference = R5;
+ValeurCmp = 2.2k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEBDA9;
+Reference = R6;
+ValeurCmp = 10;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DFEB34;
+Reference = R7;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DFD9E0;
+Reference = R8;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DF79D4;
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DFEB33;
+Reference = R10;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DF7325;
+Reference = R11;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA58A;
+Reference = RV1;
+ValeurCmp = 10k;
+IdModule  = SMD_Packages:POT_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DF79CE;
+Reference = RV2;
+ValeurCmp = POT;
+IdModule  = SMD_Packages:POT_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DF729B;
+Reference = RV3;
+ValeurCmp = POT;
+IdModule  = SMD_Packages:POT_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA1BD;
+Reference = U1;
+ValeurCmp = TL082;
+IdModule  = SMD_Packages:SOIC-8-W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA148;
+Reference = U2;
+ValeurCmp = LM386;
+IdModule  = SMD_Packages:SSOP-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DFEB2F;
+Reference = U3;
+ValeurCmp = TCRT1000;
+IdModule  = Popurri_CDR:TCRT1000;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DFE638/54DFEB30;
+Reference = U4;
+ValeurCmp = TCRT1000;
+IdModule  = Popurri_CDR:TCRT1000;
+EndCmp
+
+EndListe
