@@ -1,80 +1,80 @@
-Cmp-Mod V01 Created by Cvpcb 0.201502201246+5434~21~ubuntu14.04.1-product   date = dom 22 feb 2015 12:41:59 ART
+Cmp-Mod V01 Created by Cvpcb 0.201502191246+5431~21~ubuntu14.04.1-product   date = dom 22 feb 2015 14:39:31 ART
 
 BeginCmp
 TimeStamp = /54DF624B/54DEC11C;
 Reference = C1;
 ValeurCmp = 18n;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEAC30;
 Reference = C2;
 ValeurCmp = 100 nF;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEB206;
 Reference = C3;
 ValeurCmp = 18n;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEAB1B;
 Reference = C4;
 ValeurCmp = 100 nF;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEBAAD;
 Reference = C5;
 ValeurCmp = 3.3 uF;
-IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEA6E7;
 Reference = C6;
 ValeurCmp = 100 nF;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEA682;
 Reference = C7;
 ValeurCmp = 47n;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEA444;
 Reference = C8;
 ValeurCmp = 10 uF;
-IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54E18EF4/54DFA72A;
 Reference = C9;
 ValeurCmp = 100n;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54E18EF4/54DFAA0B;
 Reference = C10;
 ValeurCmp = 2.2u;
-IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54E18EF4/54DF8DCC;
 Reference = C11;
 ValeurCmp = 10n;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
@@ -88,7 +88,7 @@ BeginCmp
 TimeStamp = /54E18EF4/54DFB3B7;
 Reference = C13;
 ValeurCmp = 100n;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
@@ -109,28 +109,28 @@ BeginCmp
 TimeStamp = /54E18EF4/54DF8334;
 Reference = IC1;
 ValeurCmp = DRV8833;
-IdModule  = SMD_Packages:TSSOP-16;
+IdModule  = Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEA975;
 Reference = L1;
 ValeurCmp = 1 uH;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEA90D;
 Reference = L2;
 ValeurCmp = 1 uH;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEA89D;
 Reference = L3;
 ValeurCmp = 1 uH;
-IdModule  = SMD_Packages:SMD-0805;
+IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
@@ -319,14 +319,14 @@ BeginCmp
 TimeStamp = /54DF624B/54DEA1BD;
 Reference = U1;
 ValeurCmp = TL082;
-IdModule  = SMD_Packages:SOIC-8-W;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DF624B/54DEA148;
 Reference = U2;
 ValeurCmp = LM386;
-IdModule  = SMD_Packages:SSOP-8;
+IdModule  = Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm;
 EndCmp
 
 BeginCmp

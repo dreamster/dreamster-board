@@ -31,11 +31,8 @@ LIBS:contrib
 LIBS:valves
 LIBS:tcrt1000
 LIBS:drv8833
-LIBS:SparkFun
 LIBS:led_rgb_a
-LIBS:arduino
 LIBS:arduino_shield
-LIBS:shield-basic-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -803,4 +800,16 @@ Text Notes 9600 1900 0    60   ~ 0
 verificar que la sd se activa por 0
 Text Notes 9500 2300 0    60   ~ 0
 verificar que cada puente H se conecto al mismo PWM, por si se usa eso
+Wire Wire Line
+	8150 5250 8050 5250
+NoConn ~ 8050 5250
+Wire Wire Line
+	8150 4450 8050 4450
+NoConn ~ 8050 4450
+Wire Wire Line
+	10050 4650 9950 4650
+NoConn ~ 10050 4650
+Wire Wire Line
+	10050 4750 9950 4750
+NoConn ~ 10050 4750
 $EndSCHEMATC
