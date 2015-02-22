@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Dreamster)(type KiCad)(uri ${KIPRJMOD}/../dreamster.pretty)(options "")(descr "Dreamster footprints"))
+)
