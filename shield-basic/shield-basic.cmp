@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201502191246+5431~21~ubuntu14.04.1-product   date = dom 22 feb 2015 14:39:31 ART
+Cmp-Mod V01 Created by Cvpcb 0.201502191246+5431~21~ubuntu14.04.1-product   date = dom 22 feb 2015 16:07:59 ART
 
 BeginCmp
 TimeStamp = /54DF624B/54DEC11C;
@@ -92,6 +92,20 @@ IdModule  = Capacitors_SMD:C_0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /54EA54A0;
+Reference = C14;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EA552F;
+Reference = C15;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /54E15115;
 Reference = CON1;
 ValeurCmp = SD_Card;
@@ -103,6 +117,13 @@ TimeStamp = /54EA05BB;
 Reference = D1;
 ValeurCmp = LED_RGB_A;
 IdModule  = Dreamster:rgb_led_plcc6;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EA5447;
+Reference = D2;
+ValeurCmp = CD1206-S01575;
+IdModule  = Capacitors_SMD:C_1206;
 EndCmp
 
 BeginCmp
@@ -295,6 +316,13 @@ IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /54EA52D7;
+Reference = R13;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /54DF624B/54DEA58A;
 Reference = RV1;
 ValeurCmp = 10k;
@@ -313,6 +341,13 @@ TimeStamp = /54DFE638/54DF729B;
 Reference = RV3;
 ValeurCmp = POT;
 IdModule  = SMD_Packages:POT_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EA4F8A;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Discret:SW_PUSH_SMALL;
 EndCmp
 
 BeginCmp
@@ -348,6 +383,13 @@ TimeStamp = /54EA1F58;
 Reference = U5;
 ValeurCmp = ARDUINO_SHIELD;
 IdModule  = Dreamster:arduino_shield;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA256;
+Reference = U19;
+ValeurCmp = TL082;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
 EndCmp
 
 EndListe
