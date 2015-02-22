@@ -1,4 +1,4 @@
-update=vie 20 feb 2015 18:30:43 ART
+update=dom 22 feb 2015 11:50:28 ART
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,7 @@ LibName29=contrib
 LibName30=valves
 LibName31=tcrt1000
 LibName32=drv8833
+LibName33=SparkFun
+LibName34=led_rgb_a
+LibName35=arduino
+LibName36=arduino_shield

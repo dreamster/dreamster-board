@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201502201246+5434~21~ubuntu14.04.1-product   date = dom 22 feb 2015 10:17:31 ART
+Cmp-Mod V01 Created by Cvpcb 0.201502201246+5434~21~ubuntu14.04.1-product   date = dom 22 feb 2015 12:41:59 ART
 
 BeginCmp
 TimeStamp = /54DF624B/54DEC11C;
@@ -95,14 +95,14 @@ BeginCmp
 TimeStamp = /54E15115;
 Reference = CON1;
 ValeurCmp = SD_Card;
-IdModule  = ;
+IdModule  = Connect:SD_Card_Receptacle;
 EndCmp
 
 BeginCmp
-TimeStamp = /54C688C5;
+TimeStamp = /54EA05BB;
 Reference = D1;
-ValeurCmp = LED_RCBG;
-IdModule  = ;
+ValeurCmp = LED_RGB_A;
+IdModule  = Dreamster:rgb_led_plcc6;
 EndCmp
 
 BeginCmp
@@ -169,65 +169,44 @@ IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
 EndCmp
 
 BeginCmp
-TimeStamp = /54C65C26;
-Reference = P6;
-ValeurCmp = CONN_01X08;
-IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
-EndCmp
-
-BeginCmp
-TimeStamp = /54C65CD6;
-Reference = P7;
-ValeurCmp = CONN_01X06;
-IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
-EndCmp
-
-BeginCmp
-TimeStamp = /54C65D27;
-Reference = P8;
-ValeurCmp = CONN_01X10;
-IdModule  = Socket_Strips:Socket_Strip_Straight_1x10;
-EndCmp
-
-BeginCmp
-TimeStamp = /54C65CB5;
-Reference = P9;
-ValeurCmp = CONN_01X08;
-IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
-EndCmp
-
-BeginCmp
-TimeStamp = /54DF624B/54DEA4B5;
-Reference = P10;
-ValeurCmp = speaker;
-IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
-EndCmp
-
-BeginCmp
 TimeStamp = /54E18EF4/54E1920E;
-Reference = P11;
+Reference = P6;
 ValeurCmp = CONN_01X02;
 IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
 EndCmp
 
 BeginCmp
 TimeStamp = /54E18EF4/54E1920F;
-Reference = P12;
+Reference = P7;
 ValeurCmp = CONN_01X02;
 IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
 EndCmp
 
 BeginCmp
 TimeStamp = /54E18EF4/54E19210;
-Reference = P13;
+Reference = P8;
 ValeurCmp = CONN_01X06;
 IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DF624B/54DEA4B5;
+Reference = P9;
+ValeurCmp = speaker;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DFE638/54DFD7C1;
 Reference = Q1;
 ValeurCmp = PNP;
+IdModule  = Transistors_SMD:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EA6E9F;
+Reference = Q2;
+ValeurCmp = NPN;
 IdModule  = Transistors_SMD:sot23;
 EndCmp
 
@@ -309,6 +288,13 @@ IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /54EA723C;
+Reference = R12;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /54DF624B/54DEA58A;
 Reference = RV1;
 ValeurCmp = 10k;
@@ -355,6 +341,13 @@ TimeStamp = /54DFE638/54DFEB30;
 Reference = U4;
 ValeurCmp = TCRT1000;
 IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EA1F58;
+Reference = U5;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = Dreamster:arduino_shield;
 EndCmp
 
 EndListe

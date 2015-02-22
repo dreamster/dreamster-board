@@ -31,6 +31,10 @@ LIBS:contrib
 LIBS:valves
 LIBS:tcrt1000
 LIBS:drv8833
+LIBS:SparkFun
+LIBS:led_rgb_a
+LIBS:arduino
+LIBS:arduino_shield
 LIBS:shield-basic-cache
 EELAYER 25 0
 EELAYER END
@@ -117,10 +121,10 @@ Wire Wire Line
 Wire Wire Line
 	9250 3650 9250 3900
 $Comp
-L CONN_01X02 P10
+L CONN_01X02 P9
 U 1 1 54DEA4B5
 P 9600 3950
-F 0 "P10" H 9600 4100 50  0000 C CNN
+F 0 "P9" H 9600 4100 50  0000 C CNN
 F 1 "speaker" V 9700 3950 50  0000 C CNN
 F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 9600 3950 60  0001 C CNN
 F 3 "" H 9600 3950 60  0000 C CNN
