@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201502201246+5434~21~ubuntu14.04.1-product   date = lun 23 feb 2015 02:27:04 ART
+Cmp-Mod V01 Created by Cvpcb 0.201502191246+5431~21~ubuntu14.04.1-product   date = lun 23 feb 2015 10:28:15 ART
 
 BeginCmp
 TimeStamp = /54DF624B/54DEC11C;
@@ -333,14 +333,14 @@ BeginCmp
 TimeStamp = /54DFE638/54DFEB2F;
 Reference = U3;
 ValeurCmp = TCRT1000;
-IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DFE638/54DFEB30;
 Reference = U4;
 ValeurCmp = TCRT1000;
-IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
 EndCmp
 
 BeginCmp
