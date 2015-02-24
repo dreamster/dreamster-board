@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201502191246+5431~21~ubuntu14.04.1-product   date = lun 23 feb 2015 10:28:15 ART
+Cmp-Mod V01 Created by Cvpcb 0.201502201246+5434~21~ubuntu14.04.1-product   date = mar 24 feb 2015 14:40:19 ART
 
 BeginCmp
 TimeStamp = /54DF624B/54DEC11C;
@@ -262,7 +262,7 @@ EndCmp
 BeginCmp
 TimeStamp = /54DFE638/54DF79D4;
 Reference = R9;
-ValeurCmp = 10k;
+ValeurCmp = 100;
 IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
@@ -276,7 +276,7 @@ EndCmp
 BeginCmp
 TimeStamp = /54DFE638/54DF7325;
 Reference = R11;
-ValeurCmp = 10k;
+ValeurCmp = 100;
 IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
@@ -284,6 +284,13 @@ BeginCmp
 TimeStamp = /54EA723C;
 Reference = R12;
 ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E18EF4/54ECB94A;
+Reference = R13;
+ValeurCmp = 47k;
 IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
@@ -297,14 +304,14 @@ EndCmp
 BeginCmp
 TimeStamp = /54DFE638/54DF79CE;
 Reference = RV2;
-ValeurCmp = POT;
+ValeurCmp = 10k;
 IdModule  = SMD_Packages:POT_SMD;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DFE638/54DF729B;
 Reference = RV3;
-ValeurCmp = POT;
+ValeurCmp = 10k;
 IdModule  = SMD_Packages:POT_SMD;
 EndCmp
 
