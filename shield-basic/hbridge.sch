@@ -116,13 +116,13 @@ $EndComp
 $Comp
 L C C11
 U 1 1 54DF8DCC
-P 5400 2550
-F 0 "C11" H 5450 2650 50  0000 L CNN
-F 1 "10n" H 5450 2450 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805" H 5438 2400 30  0001 C CNN
-F 3 "" H 5400 2550 60  0000 C CNN
-	1    5400 2550
-	0    1    1    0   
+P 4600 2700
+F 0 "C11" H 4650 2800 50  0000 L CNN
+F 1 "10n" H 4650 2600 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 4638 2550 30  0001 C CNN
+F 3 "" H 4600 2700 60  0000 C CNN
+	1    4600 2700
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	7250 3500 7700 3500
@@ -137,15 +137,7 @@ Wire Wire Line
 Wire Wire Line
 	7250 3500 7250 3600
 Wire Wire Line
-	4700 3000 4550 3000
-Wire Wire Line
-	4550 3000 4550 2550
-Wire Wire Line
-	4550 2550 5200 2550
-Wire Wire Line
-	5600 2550 6100 2550
-Wire Wire Line
-	6100 2550 6100 3000
+	4700 3000 4600 3000
 Wire Wire Line
 	5900 3000 6850 3000
 Wire Wire Line
@@ -279,7 +271,6 @@ F 3 "" H 6550 3250 300 0000 C CNN
 $EndComp
 Wire Wire Line
 	6550 3000 6550 3050
-Connection ~ 6100 3000
 $Comp
 L C C4
 U 1 1 54DFB3B7
@@ -371,6 +362,31 @@ F 3 "" H 1900 2700 60  0000 C CNN
 	1    1900 2700
 	1    0    0    -1  
 $EndComp
-Text Notes 3850 4300 0    60   ~ 0
-verificar como conectar nsleep y nfault
+NoConn ~ 4700 3300
+$Comp
+L R R13
+U 1 1 54ECB94A
+P 4250 2650
+F 0 "R13" V 4330 2650 50  0000 C CNN
+F 1 "47k" V 4257 2651 50  0000 C CNN
+F 2 "" V 4180 2650 30  0000 C CNN
+F 3 "" H 4250 2650 30  0000 C CNN
+	1    4250 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 2400 4250 2300
+Wire Wire Line
+	4250 2300 4800 2300
+Wire Wire Line
+	4600 3000 4600 2900
+Wire Wire Line
+	4700 3200 4250 3200
+Wire Wire Line
+	4250 3200 4250 2900
+Wire Wire Line
+	4600 2300 4600 2500
+Connection ~ 4600 2300
+Text Label 4800 2300 2    60   ~ 0
+VIN
 $EndSCHEMATC
